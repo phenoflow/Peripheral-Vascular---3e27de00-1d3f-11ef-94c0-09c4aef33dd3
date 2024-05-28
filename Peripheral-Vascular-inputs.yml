@@ -1,0 +1,45 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-fhir.js
+inputModule2:
+  class: File
+  path: python/other-peripheral-vascular---primary.py
+inputModule3:
+  class: File
+  path: python/peripheral-vascular-unspecified---primary.py
+inputModule4:
+  class: File
+  path: python/peripheral-vascular-gangrene---primary.py
+inputModule5:
+  class: File
+  path: python/peripheral-vascular-rupture---primary.py
+inputModule6:
+  class: File
+  path: python/peripheral-vascular-which---primary.py
+inputModule7:
+  class: File
+  path: python/peripheral-vascular---primary.py
+inputModule8:
+  class: File
+  path: python/thoracoabdominal-peripheral-vascular---primary.py
+inputModule9:
+  class: File
+  path: python/thoracic-peripheral-vascular---primary.py
+inputModule10:
+  class: File
+  path: python/diabetic-peripheral-vascular---primary.py
+inputModule11:
+  class: File
+  path: python/peripheral-vascular-repair---primary.py
+inputModule12:
+  class: File
+  path: python/aortic-peripheral-vascular---primary.py
+inputModule13:
+  class: File
+  path: python/peripheral-vascular-claudication---primary.py
+inputModule14:
+  class: File
+  path: python/peripheral-vascular-atherosclerosis---primary.py
+inputModule15:
+  class: File
+  path: python/output-cases.py
